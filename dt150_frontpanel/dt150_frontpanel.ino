@@ -1,7 +1,7 @@
 /*
 Proof of concept code for interfacing an Arduino with the frontpanel of a DT150.
 
-The used PT6312 chip needs 5V logic, tested with Arduino Nano.
+The used PT6312 chip needs 3.3V logic.
 
 Connections for front panel connector (red line is pin 1):
 
